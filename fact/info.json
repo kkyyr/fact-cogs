@@ -1,0 +1,9 @@
+{
+    "author": ["ha?m"], 
+    "name": "Fact",
+    "install_msg": "Thanks for installing Fact. Run `[p]fact` to get a random fact.",
+    "description": "Sends a random fact",
+    "short": "Get a random fact!",
+    "end_user_data_statement": "This cog does not persistently store any data about users",
+    "min_bot_version": "3.4.6"
+}
