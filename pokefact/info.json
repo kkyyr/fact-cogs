@@ -1,0 +1,9 @@
+{
+    "author": ["ha?m"], 
+    "name": "Pokefact",
+    "install_msg": "Thanks for installing Pokefact. Run `[p]fact` to get a random Pokémon fact.",
+    "description": "Sends a random Pokémon fact",
+    "short": "Get a random Pokémnon fact!",
+    "end_user_data_statement": "This cog does not persistently store any data about users",
+    "min_bot_version": "3.4.6"
+}
